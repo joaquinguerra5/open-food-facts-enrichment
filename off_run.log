@@ -1,0 +1,188 @@
+Filas a procesar: 501
+[   1/ 501] 07797906054826 encontrado    cache    Papas Fritas McCain Clásicas Corte Tradi
+[   2/ 501] 07798147780062 encontrado    cache    Bombones Franuí De Frambuesa En Chocolat
+[   3/ 501] 07798147784008 encontrado    cache    Bombones Franuí Pink Frambuesas Con Choc
+[   4/ 501] 07798147783223 encontrado    cache    Bombones Franuí De Frambuesa Con Chocola
+[   5/ 501] 07501058753458 no_encontrado cache    Quitamanchas Vanish Polvo Blanco 120 g
+[   6/ 501] 07891000115695 no_encontrado cache    Alimento Húmedo Para Cachorro Dog Chow D
+[   7/ 501] 07898024395232 encontrado    cache    Crema De Avellana Nutella 140 g
+[   8/ 501] 00735051016372 encontrado    cache    Ketchup Heinz Doypack 397 g
+[   9/ 501] 07613031154111 encontrado    api      Cafe Soluble Nescafe Gold Instantaneo Fr
+[  10/ 501] 07501059295872 encontrado    api      Crema En Polvo Coffee Mate Regular Sin L
+[  11/ 501] 07613033734441 encontrado    api      Fórmula Lactea Nan Comfort En Polvo 400 
+[  12/ 501] 07702018072392 encontrado    api      Máquina De Afeitar Para Mujer Gillette V
+[  13/ 501] 07797906054833 encontrado    api      Papas Crinkle Mccain 600 G
+[  14/ 501] 07798372790041 no_encontrado api      Bebida Kombucha Aloja Pomelada 354 ml
+[  15/ 501] 09780201379624 encontrado    api      Acido Acetilsalicilico 100 mg. (Acido Ac
+[  16/ 501] 07798126074762 no_encontrado api      Galletitas Gaona Anillo Coco 210g
+[  17/ 501] 07790380025078 no_encontrado api      Chocolate Full Mani Relleno Con Pasta De
+[  18/ 501] 07793323026989 no_encontrado api      Edulcorante Xilitol Sin Gluten X 200 Grs
+[  19/ 501] 07798160463553 no_encontrado api      Bolsa Afa Fl 38x36x10 Cm Home Care
+[  20/ 501] 07792052098007 no_encontrado api      Aceite Oliva Virgen Extra X 250 Ml Cuisi
+[  21/ 501] 07798061192040 no_encontrado api      Salsa Lista Bolognesa X 340 Grs Oliovita
+[  22/ 501] 07793253007362 no_encontrado api      Guantes Mortimer color naranja Talle S 6
+[  23/ 501] 07798149559796 no_encontrado api      Cesto de residuos Suka acero negro tapa 
+[  24/ 501] 08710103978589 no_encontrado api      Limpia Zapatillas Philips GCA1000-60 Azu
+[  25/ 501] 07799111687288 no_encontrado api      Difusor LED Madera VE6085
+[  26/ 501] 07798423680123 no_encontrado api      Queso saborizado pimienta Vanguard 200 g
+[  27/ 501] 07791720044568 no_encontrado api      Jamón crudo feteado Bulnez 150 grs
+[  28/ 501] 07799111687226 no_encontrado api      Difusor LED USB 120ml Colores VE12003
+[  29/ 501] 07798136871498 no_encontrado api      Dulce de arándano Masseube 350 grs
+[  30/ 501] 07793253007409 no_encontrado api      Guantes Mortimer color verde Talle M 40 
+[  31/ 501] 07795357007934 no_encontrado api      Recipiente de residuos Kuma Home vaiven 
+[  32/ 501] 07798418161767 no_encontrado api      Cordones cola de ratón Tex
+[  33/ 501] 09002490100070 encontrado    api      Bebida Energizante Red Bull Sabor Origin
+[  34/ 501] 00650240063244 encontrado    api      Suero Suerox Mora Azul 630 ml
+[  35/ 501] 00650240063213 encontrado    api      Bebida Hidratante Suerox Fresa & Kiwi 63
+[  36/ 501] 00070847009511 encontrado    api      Bebida Energética Monster Energy Regular
+[  37/ 501] 00650240063220 encontrado    api      Bebida Hidratante Suerox Manzana 630 ml
+[  38/ 501] 01007084703475 encontrado    api      Bebida Monster Mango Loco 473 ml
+[  39/ 501] 00650240061325 no_encontrado api      Bebida Rehidratante Suerox Uva 630 ml
+[  40/ 501] 00650240069192 no_encontrado api      Bebida Hidratante Suerox Frutos Rojos 63
+[  41/ 501] 07801610001196 encontrado    api      Coca-Cola Sabor Original Lata 350 ml
+[  42/ 501] 07790895000232 encontrado    api      Refresco Coca-Cola Original 354 ml
+[  43/ 501] 07401005904035 encontrado    api      Gaseosa 7Up Lata 355 ml
+[  44/ 501] 07401005904011 encontrado    api      Gaseosa Pepsi Lata 355 ml
+[  45/ 501] 07790895000997 encontrado    api      Gaseosa Coca-Cola Sabor Original 2.25 L
+[  46/ 501] 07401005908538 encontrado    api      Gaseosa Pepsi Zero Lata 355 ml
+[  47/ 501] 07790895067587 encontrado    api      Refresco Coca-Cola Zero 354 ml
+[  48/ 501] 00884394002518 encontrado    api      Bebida De Aloe Vera OKF Libre De Azúcar 
+[  49/ 501] 00884394000026 encontrado    api      Bebida Aloe Vera Okf King Original 500 m
+[  50/ 501] 07591446002176 encontrado    api      Maltin Polar Lata 355 ml
+[  51/ 501] 05060108450010 encontrado    api      Agua Tónica Fever-Free 4 x 200 ml
+[  52/ 501] 07401078930047 no_encontrado api      Selvigon Jarabe 100Ml
+[  53/ 501] 08002270456558 encontrado    api      Refresco Tónica San Pellegrino En Lata 3
+[  54/ 501] 00035406034960 no_encontrado api      Leche De Coco Country Barn 13.5 oz
+[  55/ 501] 00884394000552 encontrado    api      Bebida Okf De Coco Pure Premium 1.5 L
+[  56/ 501] 08002270000188 encontrado    api      Agua Con Gas San Pellegrino Mineral Natu
+[  57/ 501] 08002270696831 encontrado    api      San Pellegrino Lata - Aranciata Rossa 33
+[  58/ 501] 08002270176548 encontrado    api      Agua San Pellegrino Aranciata 330 ml
+[  59/ 501] 08002270226557 encontrado    api      Agua San Pellegrino Aranciata Rossa 330 
+[  60/ 501] 08002270136559 encontrado    api      Agua San Pellegrino Con Gas 500 ml
+[  61/ 501] 08000815003915 encontrado    api      Agua Mineral Natural Acqua Panna Sin Gas
+[  62/ 501] 08002270676819 encontrado    api      Agua San Pellegrino Saborizada Aranciata
+[  63/ 501] 07613032913342 no_encontrado api      Agua Perrier Natural Botella 750 ml
+[  64/ 501] 07891962056746 encontrado    api      Pan Blanco Bauducco Masa Madre 390 g
+[  65/ 501] 07891962064048 encontrado    api      Pan Blanco Bauducco De Masa Madre 390 g
+[  66/ 501] 07891962056753 encontrado    api      Pan Integral Bauducco 390 g
+[  67/ 501] 00046000273426 encontrado    api      Tortilla Para Burritos Old El Paso 8 Uni
+[  68/ 501] 07441029556735 encontrado    api      Pan De Caja Bimbo Cuadrado Blanco 580 g
+[  69/ 501] 07441029500110 encontrado    api      Pan De Caja Bimbo Cuadrado Integral 100%
+[  70/ 501] 07441029500400 encontrado    api      Pan Tostado Bimbo Blanco Clásico 210 g
+[  71/ 501] 07891962027388 encontrado    api      Panettone Bauducco Frutas 400 g
+[  72/ 501] 07891962071114 encontrado    api      Mini Pannetone Bauducco Con Frutas 80 g
+[  73/ 501] 07891962071121 encontrado    api      Mini Pannetone Bauducco Gotas Chocolate 
+[  74/ 501] 07441029522228 encontrado    api      Pastel Pingüinos Cookies And Cream 80 g
+[  75/ 501] 07891962027395 encontrado    api      Panettone Bauducco Chocolate 400 g
+[  76/ 501] 00000074000654 encontrado    api      Pastel Submarinos Vainilla 64 g
+[  77/ 501] 00000074000661 encontrado    api      Pastel Submarinos Fresa 64 g
+[  78/ 501] 07891962052212 encontrado    api      Panetón Bauducco Mini Chocolate 100 g
+[  79/ 501] 00000075032715 encontrado    api      Cerveza Corona Extra Botella 355 ml
+[  80/ 501] 05410228144755 no_encontrado api      Cerveza Stella Artois Botella Pack 6 x 3
+[  81/ 501] 08008440222008 encontrado    api      Cerveza Peroni Botella 330 mL
+[  82/ 501] 05410228141266 encontrado    api      Cerveza Stella Artois Rubia Botella 330 
+[  83/ 501] 07792798003709 encontrado    api      Cerveza Corona Rubia 330 ml
+[  84/ 501] 03500610085338 encontrado    api      Vino Espumoso J.P. Chenet Ice Edition 75
+[  85/ 501] 08410793282934 encontrado    api      Cerveza Estrella Damm Barcelona 330 ml
+[  86/ 501] 00849806001220 no_encontrado api      Bebida Alcohólica Four Loko Ponche De Fr
+[  87/ 501] 00849806001206 encontrado    api      Bebida Alcohólica Four Loko Sandía 12% 4
+[  88/ 501] 00849806001756 encontrado    api      Four Loko Gold Lata 12% Alcohol 473 ml
+[  89/ 501] 00849806002746 encontrado    api      Bebida Alcohólica Four Loko Purple Lata 
+[  90/ 501] 00849806002319 no_encontrado api      Bebida Alcohólica Four Loko Blue 12% 473
+[  91/ 501] 00764009800312 encontrado    api      Bebida Saborizada a Base de Vodka Smirno
+[  92/ 501] 00849806001855 no_encontrado api      Four Loko Green Lata 12% Alcohol 473 ml
+[  93/ 501] 00764009013118 no_encontrado api      Bebida Saborizada a Base de Vodka Smirno
+[  94/ 501] 05011013100132 encontrado    api      Licor Baileys Original Irish Cream 750 m
+[  95/ 501] 07501035010109 encontrado    api      Tequila Jose Cuervo Oro Reposado 750 ml
+[  96/ 501] 05000267024011 no_encontrado api      Whisky Johnnie Walker Black Label  750 m
+[  97/ 501] 05000267014005 encontrado    api      Whisky Johnnie Walker Red Label 750 ml
+[  98/ 501] 00082184090466 encontrado    api      Whisky Jack Daniel's Tennessee Old No 7 
+[  99/ 501] 07501035042322 encontrado    api      Tequila Jose Cuervo Silver 750 ml
+[ 100/ 501] 00082184000335 encontrado    api      Whisky Jack Daniel's Tennessee Honey 750
+[ 101/ 501] 07804320303178 encontrado    api      Vino Tinto Casillero Del Diablo Cabernet
+[ 102/ 501] 07804320087016 encontrado    api      Vino Tinto Casillero Del Diablo Carmener
+[ 103/ 501] 07790240017045 encontrado    api      Vino Tinto Malbec Trapiche Vineyards 750
+[ 104/ 501] 07804320985633 encontrado    api      Vino Casillero Del Diablo Merlot Reserva
+[ 105/ 501] 07790975000183 no_encontrado api      Espumante Chandon Extra Brut 750 ml
+[ 106/ 501] 07791203001231 encontrado    api      Vino Tinto Luigi Bosca Malbec 750 ml
+[ 107/ 501] 07804320301174 encontrado    api      Vino Blanco Casillero Del Diablo Sauvign
+[ 108/ 501] 07804320559001 encontrado    api      Vino Tinto Frontera Cabernet Sauvignon 7
+[ 109/ 501] 03228020355741 encontrado    api      Mantequilla President Con Sal 200 g
+[ 110/ 501] 03228020481846 encontrado    api      Queso Blando Président Petit Camembert 1
+[ 111/ 501] 03228020191349 encontrado    api      Queso Blando Petit Brie Président 125 g
+[ 112/ 501] 03228020490343 encontrado    api      Queso Emmental Président Rebanado 200 g
+[ 113/ 501] 03228022910023 encontrado    api      Mantequilla President Sin Sal 200 g
+[ 114/ 501] 08412289003740 encontrado    api      Tabla de Quesos Garcia Baquero 150 g
+[ 115/ 501] 08412289003887 encontrado    api      Queso De Cabra Garcia Baquero 150 g
+[ 116/ 501] 03228021000190 encontrado    api      Crema Batida Président En Lata 250 g
+[ 117/ 501] 00072878368940 encontrado    api      Salsa Herdez Chunky Mild 425 g
+[ 118/ 501] 07501017005925 encontrado    api      Salsa Verde La Costeña 250 g
+[ 119/ 501] 00852629004774 encontrado    api      Salchicha Vegetal Beyond Meat A Base De 
+[ 120/ 501] 00077782023930 encontrado    api      Salchichas Johnsonville Beddar Con Chedd
+[ 121/ 501] 07401004201968 encontrado    api      Salsa De Queso Regia Doypack 200 g
+[ 122/ 501] 00785331722462 encontrado    api      Rebanada De Tocino Premium Gwaltney Ahum
+[ 123/ 501] 00852629004750 encontrado    api      Salchicha Beyond Sausage Hot Italian Veg
+[ 124/ 501] 07501032399238 encontrado    api      Bebida De Almendras Silk Sabor Chocolate
+[ 125/ 501] 00041331021647 encontrado    api      Leche De Coco Goya 400 ml
+[ 126/ 501] 07441001601156 encontrado    api      Leche Dos Pinos Descremada 1 L
+[ 127/ 501] 07502252480928 encontrado    api      Bebida De Almendras Nature´s Heart Sin A
+[ 128/ 501] 07441001601064 encontrado    api      Leche Dos Pinos Semidescremada 1 L
+[ 129/ 501] 07502252481796 encontrado    api      Bebida Nature´s Heart De Almendras Y Vai
+[ 130/ 501] 00041331021630 encontrado    api      Crema De Coco Goya 425 g
+[ 131/ 501] 07501032399290 encontrado    api      Bebida De Coco Silk Sin Azúcar 946 ml
+[ 132/ 501] 08001250009999 encontrado    api      Pasta Ñoquis De Cecco De Papa 500 g
+[ 133/ 501] 07790236001997 no_encontrado api      Ravioles La Salteña 4 Quesos 500 g
+[ 134/ 501] 07790522002516 encontrado    api      Ravioles Mendia Ricota Mozzarella Y Jamó
+[ 135/ 501] 07795711000052 encontrado    api      Fideos Villa D'agri Tallarines 500 g
+[ 136/ 501] 07795711000106 encontrado    api      Ñoquis Villa D'Agri Semolín 500 g
+[ 137/ 501] 07790522000048 encontrado    api      Tapas Para Empanadas Mendia Para Copetín
+[ 138/ 501] 07790236001263 encontrado    api      Tapa Para Pascualina La Salteña Hojaldra
+[ 139/ 501] 00852629004583 encontrado    api      Hamburguesas Beyond Meat A Base De Plant
+[ 140/ 501] 00041419714737 encontrado    api      Combos Pepperoni Pizza 48.2 g
+[ 141/ 501] 00038000405006 encontrado    api      Waffles Kellogg's Eggo Chocolatey Chip 1
+[ 142/ 501] 00798782451119 encontrado    api      Empanaditas Chinas O'Tasty Vegetales Y C
+[ 143/ 501] 00072714110849 encontrado    api      Palitos McCain De Queso Mozzarella 226 g
+[ 144/ 501] 09780201379617 encontrado    api      Lata Oreo 1 Unidad + Galletitas Oreo 118
+[ 145/ 501] 07804659650387 encontrado    api      Hamburguesa Not Burger Plant Based NotCo
+[ 146/ 501] 07613037507409 no_encontrado api      Mezcla Lista Hamburguesa Veggie Quinoa 1
+[ 147/ 501] 00055773077407 encontrado    api      Papas Fritas McCain Corte Recto 500 g
+[ 148/ 501] 00085696608044 encontrado    api      Tofu Mori-Nu Sedoso Firme 349 g
+[ 149/ 501] 00085696608051 encontrado    api      Tofu Extra Firme Mori-Nu Silken 12.3 oz
+[ 150/ 501] 07797906000380 encontrado    api      Papa Tradicional Mccain 720 g
+[ 151/ 501] 07797906000892 encontrado    api      Papas McCain Tradicional Bolsa 1.5 kg
+[ 152/ 501] 07797906000120 encontrado    api      Papas McCain Corte Fino 2.25 kg
+[ 153/ 501] 07801220431109 encontrado    api      Choclo En Grano Minuto Verde 500 g
+[ 154/ 501] 07801372000352 encontrado    api      Carpaccio de Atún South Wind 100 g
+[ 155/ 501] 07801372543316 no_encontrado api      Salmón Ahumado South Wind Rebanado Conge
+[ 156/ 501] 07801372543309 encontrado    api      Salmón Ahumado South Wind Rebanado 100 g
+[ 157/ 501] 00665072007175 encontrado    api      Pulpo Congelado Cocido Panamei 1Lb
+[ 158/ 501] 00607766989954 encontrado    api      Salmón Congelado Con Piel Sin Espinas Me
+[ 159/ 501] 00720550401996 encontrado    api      Salmón Gourmar Con Soya Y Sesamo 324 g
+[ 160/ 501] 00720550010907 no_encontrado api      Salmón Gravad Congelado Gourmar Rebanado
+[ 161/ 501] 07804617370005 no_encontrado api      Bolsa De Hielo Pop 1 kg
+[ 162/ 501] 07804617370029 no_encontrado api      Hielo Pop 2 kg
+[ 163/ 501] 07798021470027 no_encontrado api      Hielo Rolito Bolsa 2 kg
+[ 164/ 501] 07730646000036 no_encontrado api      Hielo Frio Kubo 3 kg
+[ 165/ 501] 07798021470973 no_encontrado api      Hielo Bolsa 3 kg
+[ 166/ 501] 07433200101056 no_encontrado api      Hielo Glacial 10 lb
+[ 167/ 501] 07861075201227 no_encontrado api      Hielo All Natural 2.5 kg
+[ 168/ 501] 00074570810116 encontrado    api      Helado Häagen Dazs Dulce De Leche 473 ml
+[ 169/ 501] 00074570610051 encontrado    api      Helado Häagen Dazs Chocolate Belga 473 m
+[ 170/ 501] 00074570024001 encontrado    api      Helado Häagen Dazs Fresa 414 ml
+[ 171/ 501] 00074570004003 encontrado    api      Helado Häagen Dazs Vainilla 14 oz
+[ 172/ 501] 00074570274000 encontrado    api      Helado Häagen Dazs Cookies & Cream 473 m
+[ 173/ 501] 08414825337838 encontrado    api      T-Shirts Talla M, The Sivar Face 1 Unida
+[ 174/ 501] 07898647780132 no_encontrado api      Estuche Grande Protector  I2Go 1 Unidad
+[ 175/ 501] 00717226224676 no_encontrado api      B.Brunette Sham.Visibly Brighter 8.3Oz-4
+[ 176/ 501] 07861035802051 no_encontrado api      Media Ingesa Panty 20 Reflejo Sm12
+[ 177/ 501] 07861035802396 no_encontrado api      Media Transparente De Lycra Ingesa 40 Ne
+[ 178/ 501] 07861035802488 no_encontrado api      Media Transparente De Lycra Ingesa 40 Gr
+[ 179/ 501] 07861035802020 no_encontrado api      Media Ingesa Panty 20 Eurocolor
+[ 180/ 501] 07861035802082 no_encontrado api      Media Ingesa Panty 20 Grafito
+[ 181/ 501] 08051708011265 no_encontrado api      Álbum De Figuritas Panini Copa América 2
+[ 182/ 501] 08051708011272 no_encontrado api      Sobre De Figuritas Panini Copa América 2
+[ 183/ 501] 07897653549825 no_encontrado api      Álbum Oficial Mundial FIFA 2026 Panini T
+[ 184/ 501] 08051708001662 no_encontrado api      Sobre Naruto Shippuden 2023 Panini 1 Uni
+[ 185/ 501] 08051708006445 no_encontrado api      Album Fifa 365 2024 Panini 1 Unidad
+[ 186/ 501] 07897653542024 no_encontrado api      Sobre Premier League 2024 Panini 1 Unida
+[ 187/ 501] 08051708001655 no_encontrado api      Album Naruto Shippuden 2023 Panini 1 Uni
