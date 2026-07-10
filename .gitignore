@@ -1,1 +1,4 @@
 off_enriquecido_3-7.csv
+fatsecret_credentials.json
+__pycache__/
+*.pyc
