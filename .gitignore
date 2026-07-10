@@ -1,4 +1,9 @@
 off_enriquecido_3-7.csv
-fatsecret_credentials.json
 __pycache__/
 *.pyc
+
+# FatSecret: fuera del alcance de este repo (incluye credenciales/API keys)
+fatsecret_*
+fatsecret_cache/
+prueba_fatsecret.py
+Plan_FatSecret_prueba.md

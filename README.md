@@ -81,6 +81,3 @@ Los no encontrados **se conservan** en el CSV con los campos de OFF vacíos y `e
 | Archivo | Qué es |
 |---|---|
 | `Analisis_campos_OFF.md` | Análisis de los ~1300 campos que devuelve OFF: cuáles valen la pena, tasas de llenado, campos estructurados para claims dietéticos (Sin TACC, vegano, kosher, etc.). |
-| `prueba_fatsecret.py` | Script de evaluación de la **FatSecret Platform API** (tier-aware: Basic free por texto / Premier con barcode). Requiere credenciales en `fatsecret_credentials.json` (copiá `fatsecret_credentials.example.json`; **no compartir ni commitear el secret**). |
-| `Plan_FatSecret_prueba.md` / `fatsecret_hallazgos.md` | Planificación y resultados de la prueba FatSecret (conclusión: excelente nutrición, sin ingredientes; el matcheo por barcode y los datos AR requieren tier Premier pago). |
-| `fatsecret_resultado.csv` / `fatsecret_chequeo_manual.csv` | Salidas de esa prueba. |
